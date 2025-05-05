@@ -1,0 +1,2 @@
+Python version 3.11.11 is used as the python package when creating the environment on anaconda
+Debugger in the VScode is required to fix file working directory issue as script may fail to run
