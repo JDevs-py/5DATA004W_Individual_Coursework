@@ -1,3 +1,9 @@
+# Streamlit app
+
+This project presents the changing house price over the last 20 years
+
+to run this app, you need to install the necessary dependencies.
 Python version 3.11.11 is used as the python package when creating the environment on anaconda
 Debugger in the VScode is required to fix file working directory issue as script may fail to run
 Make sure streamlit app is in the same file directory as cw_app.py
+This project was made using Windows
